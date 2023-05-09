@@ -83,8 +83,8 @@ console.log(array3[1][1][1][0])
  *
  * Use the length of the array below to retrieve the second to last item.
  */
-
-
+let array4 = ['a', 'b', 'c', 'd', 'e'];
+console.log(array4[array4.length-2])
 /*
  * Prompt 3:
  *
