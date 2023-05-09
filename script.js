@@ -65,15 +65,18 @@ console.log('hello my name is ' + fullName)
  */
 
 let array1 = ['Marty Marion', 'Marty Feldman', 'Marty McFly', 'Marty Marion'];
+console.log(array1[2])
 let array2 = [
   ['Marty Feldman', 'Marty Marion'],
   ['Marty Stuart', 'Marty McFly'],
   ['Marty Jannetty', 'Marty Robbins']
 ];
+console.log(array2[1][1])
 let array3 = [
   ['Marty Feldman', ['Marty Marion']],
   ['Marty Stuart', ['Marty Janetty', ['Marty McFly'], 'Marty Robbins']]
 ];
+console.log(array3[1][1][1][0])
 
 /*
  * Prompt 2:
