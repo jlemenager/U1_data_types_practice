@@ -85,6 +85,7 @@ console.log(array3[1][1][1][0])
  */
 
 let array4 = ['a', 'b', 'c', 'd', 'e'];
+console.log(array4[array4.length-2])
 
 /*
  * Prompt 3:
