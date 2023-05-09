@@ -31,6 +31,12 @@ console.log(money)
  *   - divide your variable by 7
  *   - calculate the remainder of dividing your variable by 2
  */
+let variable = 1
+console.log(variable + 2)
+console.log(variable - 1)
+console.log(variable*3)
+console.log(variable/7)
+console.log(variable%2)
 
 /*
  * Prompt 4:
