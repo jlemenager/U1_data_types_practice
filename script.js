@@ -108,3 +108,6 @@ console.log(karolin)
 cathleen.splice(2, 1, 'Gotham City')
 console.log(cathleen)
 // Remove "Pittsburgh" from Kristyn's array and add "Oakland".
+kristyn.pop()
+kristyn.push('Oakland')
+console.log(kristyn)
