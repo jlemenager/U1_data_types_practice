@@ -105,5 +105,6 @@ console.log(thom)
 karolin.splice(1, 1, karolin[1]+ 1)
 console.log(karolin)
 // Change Cathleen's hometown from New York to "Gotham City".
-
+cathleen.splice(2, 1, 'Gotham City')
+console.log(cathleen)
 // Remove "Pittsburgh" from Kristyn's array and add "Oakland".
